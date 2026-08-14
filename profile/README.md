@@ -8,4 +8,4 @@ This work instantiates a new substrate for computing—comprising new computing 
 
 We're big on web standards and are heavily invested in new technologies, proposals and polyfills that extend what's natively available.
 
-> This Labs converges the work we started at @webqit and @linked-db.
+> This Lab continues the work we started at [@webqit](https://github.com/webqit) and [@linked-db](https://github.com/linked-db).
