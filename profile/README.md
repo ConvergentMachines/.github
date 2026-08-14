@@ -1,6 +1,6 @@
 # Welcome to Finite State Labs
 
-_Solving state as a first-class problem in computing._
+_State as a first-class problem in computing._
 
 **Finite State Labs** is a research and engineering lab working on state as a first-class problem in computing. The quest is to rederive stateful computing from first principles. Engineering informs the research; the research informs the engineering.
 
