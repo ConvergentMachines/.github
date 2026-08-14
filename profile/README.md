@@ -7,3 +7,5 @@ _State as a first-class problem in computing._
 This work instantiates a new substrate for computing—comprising new computing and programming models, runtimes, protocols, infrastructure, and developer tools.
 
 We're big on web standards and are heavily invested in new technologies, proposals and polyfills that extend what's natively available.
+
+> This Labs converges the work we started at @webqit and @linked-db.
