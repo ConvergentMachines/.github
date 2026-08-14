@@ -1,4 +1,4 @@
-# Welcome to Finite State Labs
+# We're Finite State Labs
 
 _State as a first-class problem in computing._
 
