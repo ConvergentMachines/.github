@@ -77,7 +77,9 @@ The same design pattern applied to old problems brings state management—past a
 // DOM APIs as live contracts 
 const result = document.querySelectorAll(css, { live: true });
 Observer.observe(result, handler);
+```
 
+```js
 // URL API as a live contract
 const url = new URL('http://example.com/path');
 Observer.observe(url, handler);
@@ -105,7 +107,9 @@ Where state coordination spanning network or protocol boundaries once required a
 const response = await fetch(url, { live: true });
 const { body } = await response.now();
 Observer.observe(body, handler);
+```
 
+```js
 // live contracts over message channels
 const data = {};
 postMessage(data, { live: true });
@@ -122,7 +126,9 @@ Where query languages (CSS, SQL, etc.) once constituted an opaque system boundar
 // live queries over the DOM
 const result = document.querySelectorAll(css, { live: true });
 Observer.observe(result, handler);
+```
 
+```js
 // live queries over PostgreSQL, MySQL, etc.
 const result = await db.query(sql, { live: true });
 Observer.observe(result.rows, handler);
