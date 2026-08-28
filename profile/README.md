@@ -155,8 +155,8 @@ The new computing substrate is enabled by individual primitives. Each implements
 
 ### 5.1 Language/runtime primitives
 
-- **[Observer API](https://github.com/webqit/observer)** — Reactivity over mutable store; a direct implementation of Paper #3
-- **[UseLive](https://github.com/webqit/use-live)** — Live computations over program state; a direct implementation of Paper #4
+- **[Observer API](https://github.com/webqit/observer)** — reactivity over mutable store; a direct implementation of Paper #3
+- **[UseLive](https://github.com/webqit/use-live)** — live computations over program state; a direct implementation of Paper #4
 
 ### 5.2 Network/Messaging primitives
 
