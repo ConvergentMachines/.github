@@ -112,7 +112,7 @@ postMessage(data, { live: true });
 Observer.set(data, 'x', value);
 ```
 
-With state now being simply shared across boundaries rather than maintained through secondary infrastructure—Web Sockets, SSE, other event systems—state across distributed architectures becomes conceptually indistinguishable from local state; stateful third-party APIs supporting the same model (fetch(stripeEndpoint, { live: true })) become conceptually indistinguishable from local Live Contracts.
+With state now being simply shared across boundaries rather than maintained through secondary infrastructure—Web Sockets, SSE, other event systems—state across distributed architectures becomes conceptually indistinguishable from local state; stateful third-party APIs supporting the same model (`fetch(stripeEndpoint, { live: true })`) become conceptually indistinguishable from local Live Contracts.
 
 ### 3.4 Across DSL/query boundaries
 
