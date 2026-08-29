@@ -1,4 +1,4 @@
-# Finite State Labs<br>— Founding Document
+# Charter & Manifesto
 
 ## 1. Who We Are
 
