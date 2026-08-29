@@ -201,7 +201,7 @@ A new application stack follows from the new substrate. The stack derives from t
 
 ### 6.3 LinkedQL & FlashQL—the durable layer
 
-**[LinkedQL](https://github.com/linked-db/linked-ql)** is a universal database interface for applications that offers a simple mental model: SQL queries as contracts—declared once, automatically enforced at the application-database boundary. The model treats state as a first-class problem in the application-database relationship—with live queries, sync, and a version-control system for automatic state convergence across online, offline, and lifecycle changes, respectively.
+**[LinkedQL](https://github.com/linked-db/linked-ql)** is a superset of SQL that fully specifies the application data contract—incorporating both the application object model (graphs) and the concept of change (online, offline, and schema changes) through live queries, offline sync, and version binding. State becomes a language-level concern rather than something accounted for through secondary infrastructure. LinkedQL works across PostgreSQL and MySQL databases, and universally across server, client, worker, and edge environments.
 
 **FlashQL** is LinkedQL's local, embedded database—a drop-in replacement for SQLite and PGLite. FlashQL makes offline sync possible.
 
