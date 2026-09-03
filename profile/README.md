@@ -1,12 +1,12 @@
 <div align="center">
 
-# Convergent Machines Labs
+# Convergent Machines Lab
 
 ---
 
 We are an engineering and research lab working on state as a first-class problem in computing. We build the universal substrate–runtimes, protocols, and systems–that account for state natively.
 
-[Read the Blueprint](https://github.com/ConvergentMachines/ConvergentMachinesLabs) • [Website](https://convergentmachines.com)
+[Read the Blueprint](https://github.com/ConvergentMachines/ConvergentMachinesLab) • [Website](https://convergentmachines.com)
 
 </div>
 
@@ -14,8 +14,8 @@ We are an engineering and research lab working on state as a first-class problem
 
 ## Start Here
 
-* **[The Convergent Machines Blueprint](https://github.com/ConvergentMachines/ConvergentMachinesLabs):** The foundational framework, technical specification roadmap, and complete story of our work.
-* **[Frequently Asked Questions (FAQ)](https://github.com/ConvergentMachines/ConvergentMachinesLabs#8-frequently-asked-questions-faq):** Jump to the FAQ.
+* **[The Convergent Machines Blueprint](https://github.com/ConvergentMachines/ConvergentMachinesLab):** The foundational framework, technical specification roadmap, and complete story of our work.
+* **[Frequently Asked Questions (FAQ)](https://github.com/ConvergentMachines/ConvergentMachinesLab#8-frequently-asked-questions-faq):** Jump to the FAQ.
 
 ## Contributing & Community
 
